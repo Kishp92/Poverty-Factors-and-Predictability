@@ -2,7 +2,7 @@
 
 ## ABSTRACT
 
-Analysis of poverty data from 7 countries of 12,600 people based on Poverty Probability Index (PPI) in order to define factors that my affect poverty in order to delagate resources to the issues for a better economic commnity. 
+Analysis of poverty data from 7 countries of 12,600 people based on Poverty Probability Index (PPI) in order to define factors that my affect poverty in order to delegate resources to the issues for a better economic community. 
 
 ## Analysis 
 
