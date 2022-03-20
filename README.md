@@ -4,6 +4,10 @@
 
 Analysis of poverty data from 7 countries of 12,600 people based on Poverty Probability Index (PPI) in order to define factors that my affect poverty in order to delegate resources to the issues for a better economic community. 
 
+## Purpose 
+
+Any amonunt of poverty is a detriment to man kind as a whole, and yet, 10% of the world lives in extreme poverty. People unable to work, communicate, meet their healhcare and personal needs leads to a static, if not dying, community from a social and economic prespective.  This analysis was done to invistigate the issues behind poverty and gain better insights to hopefully help the world progress. 
+
 ## Analysis 
 
 <a href="https://github.com/Kishp92/Poverty-Factors-and-Predictability/blob/d7162b3863f7e0178107ca4f246a81e5bb0cb7ee/Poverty%20Analysis%20MASTER%20PDF.pdf">Presentation</a>
